@@ -12,4 +12,5 @@ HTML and CSS
 # CONTACT
 JITENDRA KHOLIYA
 Email : jeevankholiya.98@gmail.com
-project link : 
+project link : https://github.com/jeevankholiya123/projects/tree/main/html-css-1(BBC)
+Hosted webpage link : http://jsproject123.unaux.com/bbcwebsite.html
